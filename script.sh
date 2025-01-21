@@ -1,5 +1,5 @@
 # this is a bash script file
-# run it like: 
+# run it like this: 
 # bash script.sh
 
 # git switch -c <BRANCH>: will create new branch and switch to it 
