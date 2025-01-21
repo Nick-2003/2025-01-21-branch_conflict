@@ -2,5 +2,7 @@
 # run it like this: 
 # bash script.sh
 
-# git switch -c <BRANCH>: will create new branch and switch to it 
 echo "my second branch"
+pwd 
+ls 
+echo "hello"
