@@ -1,5 +1,6 @@
 # this is a bash script file
 # run it like that: 
+# run it like this: 
 # bash script.sh
 
 echo "my second branch"
